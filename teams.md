@@ -67,3 +67,18 @@ We are a team of five Master's Computing Science students at the [University of 
 During this hackathon, we will be taking a closer look at the maintainability and evolution-readiness of the GrimoireLab toolkit. 
 To do this, we will be using the toolkit itself for analysis - e.g. Perceval for repository metrics, Graal for code metrics, and Kibiter for visualization. 
 We will use this information in combination with issues experienced by other participants, GrimoireLab developers, and our hands-on findings to determine what components are the least future-proof and refactor those where needed. 
+
+## Team Balloon
+
+Repository: https://github.com/cptanalatriste/team-balloon-msr
+
+Participants:
+
+* Carlos Gavidia-Calderon
+* José Caballero Ortiz
+
+**Description of the intended research:**
+
+We are analysing the incentives for performing code reviews in open-source projects.
+To this end, we are using time-series analysis techniques over pull-request data from individual contributors.
+This data was extracted from GitHub repositories using Perceval's Python API.
